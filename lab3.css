@@ -4,15 +4,16 @@ h2 {color:#ffff;
     background-color:#00ff00;}
 h3 {text-decoration: line-through;
     text-transform: lowercase;
-    background-color:yellow} 
+    background-color:yellow;
+    word-spacing: .75em;} 
  p {font-size: 35px;
     text-align: justify;
     line-height: 3.14;
     color:hsl(248, 53%, 58%);
-    text-shadow: 2px 4px 3px #000;
     letter-spacing: 0.0625em;}
 em {font-style: italic;}
 ul {background-color:hsl(300, 76%, 72%);}
 ol {color:lightgray;
     background-color:hsl(0, 100%, 100%);}
 body{background-color: hsla(303, 85%, 34%, 1);}
+strong{text-shadow: 2px 4px 3px #000}
